@@ -1,6 +1,45 @@
 # Hotel-Management-System-ASP.NET-MVC-Description
 A comprehensive ASP.NET Core MVC web application designed for hotel management, supporting reservations, dining, administration, and guest interaction. The system facilitates a seamless experience for guests, staff (receptionists and cleaners), and admins.
 
+<h3 style="font-weight: bold;">Overview</h3>
+<p align="center">
+  <img src="https://i.imgur.com/2LbhbEX.png" width="100%">
+  <img src="https://i.imgur.com/5iW1zKk.png" width="100%">
+  <img src="https://i.imgur.com/QyWZ3Zi.png" width="100%">
+  <img src="https://i.imgur.com/wx9ciY0.png" width="100%">
+  <img src="https://i.imgur.com/aJXTm8C.png" width="100%">
+  <img src="https://i.imgur.com/4Qx145D.png" width="100%">
+</p>
+
+<h3 style="font-weight: bold;">Accomodations</h3>
+<p align="center">
+  <img src="https://i.imgur.com/Q4fyXLH.png" width="100%">
+  <img src="https://i.imgur.com/YCApDTj.png" width="100%">
+</p>
+
+<h3 style="font-weight: bold;">Learn More</h3>
+<p align="center">
+  <img src="https://i.imgur.com/bOLIeIs.png" width="100%">
+</p>
+
+<h3 style="font-weight: bold;">Book Room</h3>
+<p align="center">
+  <img src="https://i.imgur.com/vubBaTL.png" width="100%">
+</p>
+
+<h3 style="font-weight: bold;">Checkout</h3>
+<p align="center">
+  <img src="https://i.imgur.com/w3TW8Q1.png" width="100%">
+  <img src="https://i.imgur.com/EJ8yJR0.png" width="100%">
+</p>
+
+<h3 style="font-weight: bold;">Success</h3>
+<p align="center">
+  <img src="https://i.imgur.com/qe47zht.png" width="100%">
+</p>
+
+...
+
 ## Features
 ### 🧑 User Roles
 - **Guest**: 
@@ -77,13 +116,15 @@ A comprehensive ASP.NET Core MVC web application designed for hotel management, 
 - **Database**: SQL Server (via EF Core)
 - **Miscellaneous**: TempData, ViewBag/ViewData for UX feedback, responsive design placeholders
 
-
 ## Possible Improvements
-
-- **Validation Enhancements**: Add client-side validation and more robust feedback on forms.
-- **Refactor Views**: Use layout views and partials more extensively for better maintainability.
 - **Unit & Integration Tests**: Improve test coverage for models and controller logic.
 - **Mobile Responsiveness**: Implement responsive layout for a better mobile experience.
-- **Localization**: Add multilingual support for international guests.
-- **Order History**: Let guests view previous food orders.
-- **Cleaner Dashboard**: Integrate status updates for cleaning progress.
+- **Language**: Add multilingual support for international guests.
+- **Attractions Section**: Add a dedicated attractions page with booking options.
+- **Integration with External Payment Systems**:
+  - Support online payments through third-party gateways.
+  - Enable digital wallets as alternative payment methods.
+- **Mobile Application**:
+  - Develop a cross-platform app for iOS and Android.
+  - Add push notifications for reservation status, promotions, and stay reminders.
+
